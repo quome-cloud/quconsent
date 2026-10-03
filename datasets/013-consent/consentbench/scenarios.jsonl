@@ -1,0 +1,712 @@
+{"action": "order_chemotherapy", "case_id": "s-0572", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0190", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0040", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0013", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0708", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0106", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0351", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0117", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0267", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0089", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0378", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0126", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0162", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0054", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0448", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0149", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0066", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0022", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0119", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0039", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0185", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0061", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0498", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0166", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0338", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0112", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0669", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-031"}, "patient": "pt-0132", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0589", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0196", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0525", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0175", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0110", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0036", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0395", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0131", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0414", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0138", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0128", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0042", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0392", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0130", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0508", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0169", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0253", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0084", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0048", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0016", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0051", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0017", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0464", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0154", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0683", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-017"}, "patient": "pt-0058", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0031", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0010", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0121", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0040", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0424", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0141", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0045", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0015", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0454", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0151", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0189", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0063", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0065", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0021", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0450", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0150", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0670", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0014", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0141", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0047", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0321", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0107", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0280", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0093", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0642", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-043"}, "patient": "pt-0118", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0177", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0059", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0420", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0140", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0361", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0120", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0328", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0109", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0217", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0072", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0537", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0179", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0079", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0026", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0367", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0122", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0592", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0197", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0584", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0194", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0158", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0052", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0319", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0106", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0707", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-035"}, "patient": "pt-0076", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0560", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0186", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0325", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0108", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0179", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0059", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0558", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0186", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0465", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0155", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0327", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0109", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0532", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0177", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0527", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0175", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0044", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0014", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0241", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0080", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0001", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0000", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0263", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0087", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0271", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0090", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0505", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0168", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0636", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-022"}, "patient": "pt-0012", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0688", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-013"}, "patient": "pt-0095", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0120", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0040", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0439", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0146", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0318", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0106", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0403", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0134", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0458", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0152", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0305", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0101", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0039", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0013", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0133", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0044", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0254", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0084", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0238", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0079", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0621", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-005"}, "patient": "pt-0077", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0206", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0068", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0343", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0114", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0046", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0015", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0481", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0160", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0690", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-044"}, "patient": "pt-0151", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0515", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0171", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0309", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0103", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0038", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0012", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0391", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0130", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0111", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0037", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0268", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0089", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0025", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0008", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0543", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0181", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0574", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0191", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0437", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0145", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0519", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0173", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0020", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0006", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0649", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-014"}, "patient": "pt-0171", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0312", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0104", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0292", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0097", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0597", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0199", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0365", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0121", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0387", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0129", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0679", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-016"}, "patient": "pt-0121", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0629", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-028"}, "patient": "pt-0027", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0575", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0191", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0114", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0038", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0381", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0127", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0062", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0020", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0291", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0097", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0622", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-033"}, "patient": "pt-0167", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0413", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0137", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0227", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0075", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0694", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0171", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0165", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0055", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0497", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0165", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0474", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0158", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0041", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0013", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0467", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0155", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0148", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0049", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0433", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0144", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0290", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0096", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0641", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-024"}, "patient": "pt-0119", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0260", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0086", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0640", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-023"}, "patient": "pt-0040", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0692", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-020"}, "patient": "pt-0074", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0503", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0167", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0613", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-043"}, "patient": "pt-0048", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0546", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0182", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0371", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0123", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0320", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0106", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0000", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0000", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0083", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0027", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0335", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0111", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0116", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0038", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0323", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0107", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0681", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-023"}, "patient": "pt-0022", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0356", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0118", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0103", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0034", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0023", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0007", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0019", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0006", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0535", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0178", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0096", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0032", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0244", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0081", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0284", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0094", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0036", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0012", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0240", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0080", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0370", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0123", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0451", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0150", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0488", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0162", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0446", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0148", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0195", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0065", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0616", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-030"}, "patient": "pt-0068", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0638", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-002"}, "patient": "pt-0019", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0557", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0185", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0172", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0057", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0310", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0103", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0438", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0146", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0024", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0008", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0131", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0043", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0213", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0071", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0242", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0080", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0345", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0115", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0232", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0077", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0697", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-046"}, "patient": "pt-0148", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0226", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0075", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0375", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0125", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0619", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-048"}, "patient": "pt-0175", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0587", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0195", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0136", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0045", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0182", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0060", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0145", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0048", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0015", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0005", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0174", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0058", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0658", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-028"}, "patient": "pt-0012", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0687", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-021"}, "patient": "pt-0151", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0567", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0189", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0239", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0079", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0311", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0103", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0262", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0087", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0711", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-046"}, "patient": "pt-0051", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0457", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0152", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0222", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0074", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0429", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0143", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0150", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0050", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0363", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0121", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0283", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0094", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0586", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0195", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0626", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0050", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0342", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0114", "purpose": "contact"}
+{"action": "update_care_plan", "case_id": "s-0492", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0164", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0067", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0022", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0115", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0038", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0673", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-011"}, "patient": "pt-0094", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0620", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-048"}, "patient": "pt-0172", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0063", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0021", "purpose": "research"}
+{"action": "order_medication", "case_id": "s-0469", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0156", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0269", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0089", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0709", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-029"}, "patient": "pt-0155", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0547", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0182", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0108", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0036", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0521", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0173", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0211", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0070", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0112", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0037", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0412", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0137", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0289", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0096", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0010", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0003", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0426", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0142", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0138", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0046", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0551", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0183", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0210", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0070", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0139", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0046", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0530", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0176", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0380", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0126", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0029", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0009", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0146", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0048", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0028", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0009", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0130", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0043", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0698", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0149", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0516", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0172", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0272", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0090", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0197", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0065", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0605", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0151", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0453", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0151", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0117", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0039", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0603", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-025"}, "patient": "pt-0103", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0329", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0109", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0073", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0024", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0137", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0045", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0637", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-003"}, "patient": "pt-0018", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0443", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0147", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0008", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0002", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0074", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0024", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0056", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0018", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0583", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0194", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0480", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0160", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0007", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0002", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0144", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0048", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0021", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0007", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0042", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0014", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0699", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0064", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0477", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0159", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0215", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0071", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0401", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0133", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0106", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0035", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0125", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0041", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0600", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0106", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0618", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-044"}, "patient": "pt-0117", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0126", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0042", "purpose": "research"}
+{"action": "order_medication", "case_id": "s-0167", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0055", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0432", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0144", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0596", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0198", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0604", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-008"}, "patient": "pt-0028", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0664", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-019"}, "patient": "pt-0102", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0208", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0069", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0099", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0033", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0490", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0163", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0663", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-049"}, "patient": "pt-0183", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0004", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0001", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0615", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-014"}, "patient": "pt-0115", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0027", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0009", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0316", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0105", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0161", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0053", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0296", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0098", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0436", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0145", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0610", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-016"}, "patient": "pt-0182", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0379", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0126", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0472", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0157", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0396", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0132", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0648", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-027"}, "patient": "pt-0147", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0409", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0136", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0428", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0142", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0660", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-032"}, "patient": "pt-0016", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0070", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0023", "purpose": "research"}
+{"action": "order_acetaminophen", "case_id": "s-0416", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0138", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0377", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0125", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0383", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0127", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0358", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0119", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0374", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0124", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0562", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0187", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0501", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0167", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0156", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0052", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0122", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0040", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0706", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-036"}, "patient": "pt-0070", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0646", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-000"}, "patient": "pt-0038", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0068", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0022", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0360", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0120", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0662", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0183", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0088", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0029", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0300", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0100", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0180", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0060", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0350", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0116", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0299", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0099", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0373", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0124", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0198", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0066", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0482", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0160", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0270", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0090", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0250", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0083", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0134", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0044", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0341", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0113", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0234", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0078", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0593", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0197", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0650", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-022"}, "patient": "pt-0077", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0187", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0062", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0435", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0145", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0410", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0136", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0052", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0017", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0295", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0098", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0644", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-011"}, "patient": "pt-0109", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0531", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0177", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0691", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-025"}, "patient": "pt-0191", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0633", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-025"}, "patient": "pt-0097", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0002", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0000", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0199", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0066", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0219", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0073", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0460", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0153", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0230", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0076", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0101", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0033", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0314", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0104", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0014", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0004", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0506", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0168", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0221", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0073", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0678", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-008"}, "patient": "pt-0177", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0094", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0031", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0614", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0158", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0207", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0069", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0118", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0039", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0452", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0150", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0218", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0072", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0286", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0095", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0390", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0130", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0081", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0027", "purpose": "contact"}
+{"action": "order_medication", "case_id": "s-0522", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0174", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0554", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0184", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0264", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0088", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0471", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0157", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0571", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0190", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0588", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0196", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0405", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0135", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0476", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0158", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0011", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0003", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0463", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0154", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0538", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0179", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0489", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0163", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0704", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0129", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0479", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0159", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0647", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0006", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0449", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0149", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0701", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-047"}, "patient": "pt-0180", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0243", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0081", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0357", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0119", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0581", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0193", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0266", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0088", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0671", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-020"}, "patient": "pt-0119", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0582", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0194", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0635", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-004"}, "patient": "pt-0067", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0159", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0053", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0178", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0059", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0072", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0024", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0059", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0019", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0493", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0164", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0612", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0148", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0151", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0050", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0053", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0017", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0247", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0082", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0541", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0180", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0176", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0058", "purpose": "contact"}
+{"action": "order_medication", "case_id": "s-0590", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0196", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0256", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0085", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0353", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0117", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0301", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0100", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0347", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0115", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0591", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0197", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0513", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0171", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0611", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-003"}, "patient": "pt-0113", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0228", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0076", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0630", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-008"}, "patient": "pt-0016", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0473", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0157", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0352", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0117", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0297", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0099", "purpose": "contact"}
+{"action": "update_care_plan", "case_id": "s-0285", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0095", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0265", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0088", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0652", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-002"}, "patient": "pt-0058", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0261", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0087", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0113", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0037", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0132", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0044", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0050", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0016", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0561", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0187", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0594", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0198", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0496", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0165", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0169", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0056", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0385", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0128", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0204", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0068", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0399", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0133", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0346", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0115", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0330", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0110", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0462", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0154", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0022", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0007", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0313", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0104", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0331", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0110", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0085", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0028", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0181", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0060", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0340", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0113", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0336", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0112", "purpose": "contact"}
+{"action": "update_care_plan", "case_id": "s-0127", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0042", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0456", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0152", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0055", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0018", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0627", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-007"}, "patient": "pt-0166", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0326", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0108", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0491", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0163", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0528", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0176", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0359", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0119", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0184", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0061", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0427", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0142", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0018", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0006", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0278", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0092", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0214", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0071", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0523", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0174", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0259", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0086", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0655", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-038"}, "patient": "pt-0019", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0205", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0068", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0628", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-031"}, "patient": "pt-0064", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0483", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0161", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0520", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0173", "purpose": "contact"}
+{"action": "update_care_plan", "case_id": "s-0229", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0076", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0037", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0012", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0193", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0064", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0404", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0134", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0625", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-009"}, "patient": "pt-0182", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0366", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0122", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0518", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0172", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0337", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0112", "purpose": "research"}
+{"action": "order_acetaminophen", "case_id": "s-0129", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0043", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0123", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0041", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0509", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0169", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0475", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0158", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0071", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0023", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0255", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0085", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0344", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0114", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0209", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0069", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0710", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0051", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0609", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-046"}, "patient": "pt-0095", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0434", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0144", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0419", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0139", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0035", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0011", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0595", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0198", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0425", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0141", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0478", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0159", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0408", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0136", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0224", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0074", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0107", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0035", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0545", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0181", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0696", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-031"}, "patient": "pt-0113", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0372", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0124", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0013", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0004", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0672", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-009"}, "patient": "pt-0129", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0599", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0199", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0349", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0116", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0092", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0030", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0585", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0195", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0303", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0101", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0484", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0161", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0288", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0096", "purpose": "research"}
+{"action": "order_acetaminophen", "case_id": "s-0058", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0019", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0186", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0062", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0201", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0067", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0402", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0134", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0418", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0139", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0598", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0199", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0192", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0064", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0606", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-016"}, "patient": "pt-0077", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0124", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0041", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0400", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0133", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0294", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0098", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0251", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0083", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0639", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-011"}, "patient": "pt-0090", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0623", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-036"}, "patient": "pt-0113", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0376", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0125", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0526", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0175", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0163", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0054", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0203", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0067", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0090", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0030", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0160", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0053", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0245", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0081", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0102", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0034", "purpose": "contact"}
+{"action": "update_care_plan", "case_id": "s-0355", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0118", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0668", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-040"}, "patient": "pt-0188", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0529", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0176", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0164", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0054", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0153", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0051", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0510", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0170", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0304", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0101", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0333", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0111", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0667", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-035"}, "patient": "pt-0086", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0676", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-003"}, "patient": "pt-0043", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0549", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0183", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0220", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0073", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0550", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0183", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0225", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0075", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0168", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0056", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0552", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0184", "purpose": "contact"}
+{"action": "order_medication", "case_id": "s-0411", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0137", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0194", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0064", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0317", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0105", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0430", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0143", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0170", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0056", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0202", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0067", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0485", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0161", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0003", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0001", "purpose": "marketing"}
+{"action": "order_acetaminophen", "case_id": "s-0155", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0051", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0695", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0097", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0563", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0187", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0468", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0156", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0200", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0066", "purpose": "research"}
+{"action": "order_medication", "case_id": "s-0507", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0169", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0573", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0191", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0257", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0085", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0677", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-026"}, "patient": "pt-0179", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0608", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0083", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0495", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0165", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0607", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-028"}, "patient": "pt-0120", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0431", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0143", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0282", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0094", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0445", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0148", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0171", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0057", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0064", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0021", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0149", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0049", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0504", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0168", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0570", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0190", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0308", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0102", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0275", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0091", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0142", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0047", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0534", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0178", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0568", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0189", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0173", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0057", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0533", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0177", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0248", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0082", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0086", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0028", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0397", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0132", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0423", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0141", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0298", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0099", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0685", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-012"}, "patient": "pt-0011", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0394", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0131", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0332", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0110", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0643", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-041"}, "patient": "pt-0173", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0656", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-038"}, "patient": "pt-0009", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0091", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0030", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0026", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0008", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0105", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0035", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0417", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0139", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0524", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0174", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0459", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0153", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0441", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0147", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0191", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0063", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0089", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0029", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0135", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0045", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0104", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0034", "purpose": "research"}
+{"action": "order_medication", "case_id": "s-0276", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0092", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0368", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0122", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0455", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0151", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0315", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0105", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0005", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0001", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0093", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0031", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0665", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-014"}, "patient": "pt-0043", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0369", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0123", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0324", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0108", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0602", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-032"}, "patient": "pt-0126", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0569", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0189", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0576", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0192", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0157", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0052", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0274", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0091", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0659", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-013"}, "patient": "pt-0071", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0075", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0025", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0252", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0084", "purpose": "marketing"}
+{"action": "send_promotional_offer", "case_id": "s-0302", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0100", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0087", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0029", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0389", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0129", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0190", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0063", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0442", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0147", "purpose": "research"}
+{"action": "order_acetaminophen", "case_id": "s-0384", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0128", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0566", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0188", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0364", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0121", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0233", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0077", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0502", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0167", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0461", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0153", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0279", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0093", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0030", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0010", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0334", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0111", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0654", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-013"}, "patient": "pt-0005", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0348", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0116", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0077", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0025", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0237", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0079", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0447", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0149", "purpose": "research"}
+{"action": "call_patient", "case_id": "s-0100", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0033", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0054", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0018", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0354", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0118", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0512", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0170", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0686", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-013"}, "patient": "pt-0187", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0143", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0047", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0393", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0131", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0702", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-016"}, "patient": "pt-0045", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0553", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0184", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0398", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0132", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0624", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["DEA", "MD"], "operator_id": "op-032"}, "patient": "pt-0017", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0661", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-046"}, "patient": "pt-0091", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0617", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-047"}, "patient": "pt-0047", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0166", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0055", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0306", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0102", "purpose": "marketing"}
+{"action": "call_patient", "case_id": "s-0078", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0026", "purpose": "contact"}
+{"action": "send_message", "case_id": "s-0407", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0135", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0147", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0049", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0601", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["DEA", "MD"], "operator_id": "op-011"}, "patient": "pt-0181", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0212", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0070", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0680", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0064", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0322", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0107", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0666", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0128", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0033", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0011", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0577", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0192", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0556", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0185", "purpose": "contact"}
+{"action": "share_record_for_research", "case_id": "s-0287", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0095", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0703", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-037"}, "patient": "pt-0176", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0047", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0015", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0277", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0092", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0486", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0162", "purpose": "research"}
+{"action": "enroll_in_trial", "case_id": "s-0580", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0193", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0216", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0072", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0235", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0078", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0043", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0014", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0540", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0180", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0097", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0032", "purpose": "research"}
+{"action": "share_record_for_research", "case_id": "s-0579", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0193", "purpose": "research"}
+{"action": "share_for_advertising", "case_id": "s-0339", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0113", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0444", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0148", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0511", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0170", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0084", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0028", "purpose": "research"}
+{"action": "send_message", "case_id": "s-0175", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0058", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0693", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-029"}, "patient": "pt-0089", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0057", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0019", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0487", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0162", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0565", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0188", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0386", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0128", "purpose": "contact"}
+{"action": "send_appointment_reminder", "case_id": "s-0388", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0129", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0651", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0047", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0095", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0031", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0032", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0010", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0082", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0027", "purpose": "marketing"}
+{"action": "update_care_plan", "case_id": "s-0307", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0102", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0231", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0077", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0249", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0083", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0578", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0192", "purpose": "marketing"}
+{"action": "order_medication", "case_id": "s-0470", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0156", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0415", "expected": "escalate", "family": "draft", "operator": null, "patient": "pt-0138", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0689", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-047"}, "patient": "pt-0058", "purpose": "treatment"}
+{"action": "share_for_advertising", "case_id": "s-0080", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0026", "purpose": "marketing"}
+{"action": "enroll_in_trial", "case_id": "s-0406", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0135", "purpose": "research"}
+{"action": "update_care_plan", "case_id": "s-0273", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0091", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0362", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0120", "purpose": "research"}
+{"action": "order_chemotherapy", "case_id": "s-0258", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0086", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0539", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0179", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0634", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-047"}, "patient": "pt-0080", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0196", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0065", "purpose": "marketing"}
+{"action": "share_for_advertising", "case_id": "s-0246", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0082", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0152", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0050", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0705", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD"], "operator_id": "op-021"}, "patient": "pt-0047", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0098", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0032", "purpose": "treatment"}
+{"action": "send_appointment_reminder", "case_id": "s-0109", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0036", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0183", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0061", "purpose": "marketing"}
+{"action": "share_record_for_research", "case_id": "s-0440", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0146", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0514", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0171", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0674", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-015"}, "patient": "pt-0172", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0293", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0097", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0548", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0182", "purpose": "contact"}
+{"action": "order_controlled_substance", "case_id": "s-0281", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0093", "purpose": "treatment"}
+{"action": "order_controlled_substance", "case_id": "s-0542", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0180", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0017", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0005", "purpose": "research"}
+{"action": "order_acetaminophen", "case_id": "s-0012", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0004", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0421", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0140", "purpose": "marketing"}
+{"action": "send_appointment_reminder", "case_id": "s-0564", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0188", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0544", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0181", "purpose": "research"}
+{"action": "final_diagnosis", "case_id": "s-0700", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-002"}, "patient": "pt-0099", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0016", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0005", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0499", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0166", "purpose": "contact"}
+{"action": "final_diagnosis", "case_id": "s-0675", "expected": "escalate", "family": "competency_missing", "operator": null, "patient": "pt-0069", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0494", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0164", "purpose": "research"}
+{"action": "order_controlled_substance", "case_id": "s-0631", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-029"}, "patient": "pt-0162", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0682", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-046"}, "patient": "pt-0027", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0653", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-049"}, "patient": "pt-0130", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0632", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD", "oncology_cert"], "operator_id": "op-029"}, "patient": "pt-0016", "purpose": "treatment"}
+{"action": "final_diagnosis", "case_id": "s-0061", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0020", "purpose": "treatment"}
+{"action": "send_promotional_offer", "case_id": "s-0382", "expected": "escalate", "family": "out_of_scope", "operator": null, "patient": "pt-0127", "purpose": "marketing"}
+{"action": "order_chemotherapy", "case_id": "s-0466", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0155", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0517", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0172", "purpose": "treatment"}
+{"action": "update_care_plan", "case_id": "s-0223", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0074", "purpose": "treatment"}
+{"action": "order_acetaminophen", "case_id": "s-0009", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0003", "purpose": "treatment"}
+{"action": "share_record_for_research", "case_id": "s-0154", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0051", "purpose": "research"}
+{"action": "send_promotional_offer", "case_id": "s-0069", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0023", "purpose": "marketing"}
+{"action": "send_message", "case_id": "s-0236", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0078", "purpose": "contact"}
+{"action": "order_chemotherapy", "case_id": "s-0645", "expected": "escalate", "family": "competency_uncredentialed", "operator": {"auth": "valid", "credentials": ["RN"], "operator_id": "op-033"}, "patient": "pt-0172", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0140", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0046", "purpose": "contact"}
+{"action": "enroll_in_trial", "case_id": "s-0422", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0140", "purpose": "research"}
+{"action": "send_appointment_reminder", "case_id": "s-0006", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0002", "purpose": "contact"}
+{"action": "send_promotional_offer", "case_id": "s-0049", "expected": "deny", "family": "explicit_deny", "operator": null, "patient": "pt-0016", "purpose": "marketing"}
+{"action": "final_diagnosis", "case_id": "s-0684", "expected": "escalate", "family": "competency_forged", "operator": {"auth": "forged", "credentials": ["MD"], "operator_id": "op-038"}, "patient": "pt-0118", "purpose": "treatment"}
+{"action": "call_patient", "case_id": "s-0076", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0025", "purpose": "contact"}
+{"action": "call_patient", "case_id": "s-0034", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0011", "purpose": "contact"}
+{"action": "share_for_advertising", "case_id": "s-0536", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0178", "purpose": "marketing"}
+{"action": "order_controlled_substance", "case_id": "s-0060", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0020", "purpose": "treatment"}
+{"action": "order_chemotherapy", "case_id": "s-0657", "expected": "allow", "family": "competency_valid", "operator": {"auth": "valid", "credentials": ["MD", "oncology_cert"], "operator_id": "op-047"}, "patient": "pt-0014", "purpose": "treatment"}
+{"action": "enroll_in_trial", "case_id": "s-0555", "expected": "escalate", "family": "withdrawn", "operator": null, "patient": "pt-0185", "purpose": "research"}
+{"action": "order_medication", "case_id": "s-0188", "expected": "escalate", "family": "expired", "operator": null, "patient": "pt-0062", "purpose": "treatment"}
+{"action": "order_medication", "case_id": "s-0500", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0166", "purpose": "treatment"}
+{"action": "send_message", "case_id": "s-0559", "expected": "allow", "family": "in_scope", "operator": null, "patient": "pt-0186", "purpose": "contact"}

@@ -1,0 +1,300 @@
+{"action": "order_resuscitation", "case_id": "goc-0000", "label": true, "patient": "pt-0045", "purpose": "treatment", "score": 0.7589, "values": ["DNR", "comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0001", "label": true, "patient": "pt-0052", "purpose": "treatment", "score": 0.7164, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0002", "label": false, "patient": "pt-0028", "purpose": "treatment", "score": 0.3378, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0003", "label": true, "patient": "pt-0068", "purpose": "treatment", "score": 0.817, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0004", "label": false, "patient": "pt-0186", "purpose": "treatment", "score": 0.2164, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0005", "label": false, "patient": "pt-0141", "purpose": "treatment", "score": 0.1488, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0006", "label": false, "patient": "pt-0011", "purpose": "treatment", "score": 0.2447, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0007", "label": false, "patient": "pt-0123", "purpose": "treatment", "score": 0.1011, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0008", "label": true, "patient": "pt-0110", "purpose": "treatment", "score": 0.8237, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0009", "label": false, "patient": "pt-0196", "purpose": "treatment", "score": 0.1322, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0010", "label": false, "patient": "pt-0128", "purpose": "treatment", "score": 0.2337, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0011", "label": true, "patient": "pt-0130", "purpose": "treatment", "score": 0.8618, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0012", "label": false, "patient": "pt-0151", "purpose": "treatment", "score": 0.1019, "values": ["no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0013", "label": false, "patient": "pt-0101", "purpose": "treatment", "score": 0.1906, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0014", "label": false, "patient": "pt-0149", "purpose": "treatment", "score": 0.1953, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0015", "label": true, "patient": "pt-0074", "purpose": "treatment", "score": 0.791, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0016", "label": true, "patient": "pt-0052", "purpose": "treatment", "score": 0.7678, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0017", "label": false, "patient": "pt-0181", "purpose": "treatment", "score": 0.0609, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0018", "label": false, "patient": "pt-0156", "purpose": "treatment", "score": 0.2114, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0019", "label": true, "patient": "pt-0068", "purpose": "treatment", "score": 0.8469, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0020", "label": true, "patient": "pt-0039", "purpose": "treatment", "score": 0.958, "values": ["DNR"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0021", "label": false, "patient": "pt-0043", "purpose": "treatment", "score": 0.1682, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0022", "label": false, "patient": "pt-0117", "purpose": "treatment", "score": 0.1043, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0023", "label": false, "patient": "pt-0048", "purpose": "treatment", "score": 0.2255, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0024", "label": true, "patient": "pt-0101", "purpose": "treatment", "score": 0.659, "values": ["no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0025", "label": true, "patient": "pt-0092", "purpose": "treatment", "score": 0.9351, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0026", "label": false, "patient": "pt-0055", "purpose": "treatment", "score": 0.12, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0027", "label": true, "patient": "pt-0157", "purpose": "treatment", "score": 0.7567, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0028", "label": false, "patient": "pt-0050", "purpose": "treatment", "score": 0.2184, "values": ["DNR", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0029", "label": true, "patient": "pt-0019", "purpose": "treatment", "score": 0.8059, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0030", "label": true, "patient": "pt-0120", "purpose": "treatment", "score": 0.8822, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0031", "label": true, "patient": "pt-0118", "purpose": "treatment", "score": 0.7245, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0032", "label": true, "patient": "pt-0144", "purpose": "treatment", "score": 0.6764, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0033", "label": true, "patient": "pt-0020", "purpose": "treatment", "score": 1.0, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0034", "label": false, "patient": "pt-0175", "purpose": "treatment", "score": 0.12, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0035", "label": false, "patient": "pt-0050", "purpose": "treatment", "score": 0.0481, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0036", "label": true, "patient": "pt-0015", "purpose": "treatment", "score": 0.7463, "values": ["DNR", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0037", "label": true, "patient": "pt-0028", "purpose": "treatment", "score": 0.7147, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0038", "label": true, "patient": "pt-0113", "purpose": "treatment", "score": 0.867, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0039", "label": false, "patient": "pt-0091", "purpose": "treatment", "score": 0.189, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0040", "label": false, "patient": "pt-0097", "purpose": "treatment", "score": 0.2553, "values": ["no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0041", "label": true, "patient": "pt-0057", "purpose": "treatment", "score": 0.8815, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0042", "label": true, "patient": "pt-0142", "purpose": "treatment", "score": 0.8805, "values": ["DNR", "comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0043", "label": false, "patient": "pt-0046", "purpose": "treatment", "score": 0.0399, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0044", "label": false, "patient": "pt-0023", "purpose": "treatment", "score": 0.0, "values": ["DNR"]}
+{"action": "admit_to_icu", "case_id": "goc-0045", "label": true, "patient": "pt-0166", "purpose": "treatment", "score": 0.724, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0046", "label": true, "patient": "pt-0022", "purpose": "treatment", "score": 0.9244, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0047", "label": false, "patient": "pt-0050", "purpose": "treatment", "score": 0.1158, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0048", "label": true, "patient": "pt-0011", "purpose": "treatment", "score": 0.8467, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0049", "label": true, "patient": "pt-0019", "purpose": "treatment", "score": 0.72, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0050", "label": false, "patient": "pt-0004", "purpose": "treatment", "score": 0.1013, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0051", "label": false, "patient": "pt-0187", "purpose": "treatment", "score": 0.179, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0052", "label": false, "patient": "pt-0180", "purpose": "treatment", "score": 0.1371, "values": ["DNR", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0053", "label": false, "patient": "pt-0182", "purpose": "treatment", "score": 0.2953, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0054", "label": true, "patient": "pt-0086", "purpose": "treatment", "score": 0.7861, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0055", "label": false, "patient": "pt-0150", "purpose": "treatment", "score": 0.1204, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0056", "label": false, "patient": "pt-0106", "purpose": "treatment", "score": 0.2589, "values": ["no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0057", "label": false, "patient": "pt-0030", "purpose": "treatment", "score": 0.0, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0058", "label": false, "patient": "pt-0094", "purpose": "treatment", "score": 0.1319, "values": ["no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0059", "label": true, "patient": "pt-0024", "purpose": "treatment", "score": 0.6379, "values": ["DNR", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0060", "label": false, "patient": "pt-0016", "purpose": "treatment", "score": 0.1055, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0061", "label": false, "patient": "pt-0040", "purpose": "treatment", "score": 0.2602, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0062", "label": false, "patient": "pt-0059", "purpose": "treatment", "score": 0.1504, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0063", "label": false, "patient": "pt-0113", "purpose": "treatment", "score": 0.2604, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0064", "label": true, "patient": "pt-0159", "purpose": "treatment", "score": 0.6879, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0065", "label": false, "patient": "pt-0053", "purpose": "treatment", "score": 0.2464, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0066", "label": false, "patient": "pt-0049", "purpose": "treatment", "score": 0.1814, "values": ["DNR", "comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0067", "label": false, "patient": "pt-0182", "purpose": "treatment", "score": 0.1555, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0068", "label": false, "patient": "pt-0069", "purpose": "treatment", "score": 0.3227, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0069", "label": false, "patient": "pt-0003", "purpose": "treatment", "score": 0.1719, "values": ["DNR", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0070", "label": true, "patient": "pt-0003", "purpose": "treatment", "score": 0.8793, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0071", "label": false, "patient": "pt-0067", "purpose": "treatment", "score": 0.061, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0072", "label": true, "patient": "pt-0031", "purpose": "treatment", "score": 0.6921, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0073", "label": false, "patient": "pt-0086", "purpose": "treatment", "score": 0.1604, "values": ["no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0074", "label": true, "patient": "pt-0058", "purpose": "treatment", "score": 0.7192, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0075", "label": false, "patient": "pt-0157", "purpose": "treatment", "score": 0.005, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0076", "label": false, "patient": "pt-0121", "purpose": "treatment", "score": 0.1396, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0077", "label": false, "patient": "pt-0171", "purpose": "treatment", "score": 0.0798, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0078", "label": false, "patient": "pt-0094", "purpose": "treatment", "score": 0.1928, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0079", "label": false, "patient": "pt-0081", "purpose": "treatment", "score": 0.1801, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0080", "label": false, "patient": "pt-0105", "purpose": "treatment", "score": 0.1469, "values": ["DNR"]}
+{"action": "transfuse_blood", "case_id": "goc-0081", "label": true, "patient": "pt-0104", "purpose": "treatment", "score": 0.6973, "values": ["no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0082", "label": true, "patient": "pt-0149", "purpose": "treatment", "score": 0.5587, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0083", "label": false, "patient": "pt-0119", "purpose": "treatment", "score": 0.1494, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0084", "label": true, "patient": "pt-0046", "purpose": "treatment", "score": 0.9486, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0085", "label": false, "patient": "pt-0055", "purpose": "treatment", "score": 0.306, "values": ["DNR"]}
+{"action": "order_acetaminophen", "case_id": "goc-0086", "label": false, "patient": "pt-0099", "purpose": "treatment", "score": 0.1935, "values": ["no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0087", "label": false, "patient": "pt-0183", "purpose": "treatment", "score": 0.3168, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0088", "label": false, "patient": "pt-0039", "purpose": "treatment", "score": 0.0472, "values": ["no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0089", "label": true, "patient": "pt-0001", "purpose": "treatment", "score": 0.859, "values": ["DNR"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0090", "label": false, "patient": "pt-0102", "purpose": "treatment", "score": 0.159, "values": []}
+{"action": "transfuse_blood", "case_id": "goc-0091", "label": true, "patient": "pt-0077", "purpose": "treatment", "score": 0.8012, "values": ["no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0092", "label": true, "patient": "pt-0031", "purpose": "treatment", "score": 0.8452, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0093", "label": false, "patient": "pt-0091", "purpose": "treatment", "score": 0.0747, "values": ["DNR", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0094", "label": true, "patient": "pt-0040", "purpose": "treatment", "score": 0.9333, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0095", "label": true, "patient": "pt-0126", "purpose": "treatment", "score": 1.0, "values": ["DNR"]}
+{"action": "order_acetaminophen", "case_id": "goc-0096", "label": false, "patient": "pt-0006", "purpose": "treatment", "score": 0.053, "values": []}
+{"action": "transfuse_blood", "case_id": "goc-0097", "label": true, "patient": "pt-0010", "purpose": "treatment", "score": 0.9294, "values": ["no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0098", "label": false, "patient": "pt-0032", "purpose": "treatment", "score": 0.1116, "values": []}
+{"action": "transfuse_blood", "case_id": "goc-0099", "label": true, "patient": "pt-0119", "purpose": "treatment", "score": 0.6842, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0100", "label": false, "patient": "pt-0064", "purpose": "treatment", "score": 0.1035, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0101", "label": true, "patient": "pt-0166", "purpose": "treatment", "score": 0.9676, "values": ["DNR"]}
+{"action": "order_acetaminophen", "case_id": "goc-0102", "label": false, "patient": "pt-0161", "purpose": "treatment", "score": 0.1754, "values": ["comfort_focused"]}
+{"action": "transfuse_blood", "case_id": "goc-0103", "label": true, "patient": "pt-0193", "purpose": "treatment", "score": 0.6625, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0104", "label": true, "patient": "pt-0092", "purpose": "treatment", "score": 0.8019, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0105", "label": false, "patient": "pt-0024", "purpose": "treatment", "score": 0.1659, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0106", "label": false, "patient": "pt-0027", "purpose": "treatment", "score": 0.0819, "values": ["DNR", "comfort_focused"]}
+{"action": "order_chemotherapy", "case_id": "goc-0107", "label": true, "patient": "pt-0092", "purpose": "treatment", "score": 0.6956, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0108", "label": false, "patient": "pt-0011", "purpose": "treatment", "score": 0.1468, "values": ["DNR", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0109", "label": true, "patient": "pt-0012", "purpose": "treatment", "score": 0.7465, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0110", "label": false, "patient": "pt-0139", "purpose": "treatment", "score": 0.1752, "values": ["DNR", "comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0111", "label": true, "patient": "pt-0124", "purpose": "treatment", "score": 0.73, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0112", "label": false, "patient": "pt-0130", "purpose": "treatment", "score": 0.2583, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0113", "label": true, "patient": "pt-0048", "purpose": "treatment", "score": 0.9429, "values": ["comfort_focused"]}
+{"action": "transfuse_blood", "case_id": "goc-0114", "label": true, "patient": "pt-0194", "purpose": "treatment", "score": 0.6619, "values": ["no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0115", "label": true, "patient": "pt-0128", "purpose": "treatment", "score": 0.8147, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0116", "label": false, "patient": "pt-0167", "purpose": "treatment", "score": 0.2346, "values": ["DNR", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0117", "label": true, "patient": "pt-0196", "purpose": "treatment", "score": 0.6961, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0118", "label": false, "patient": "pt-0046", "purpose": "treatment", "score": 0.1137, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0119", "label": false, "patient": "pt-0149", "purpose": "treatment", "score": 0.1042, "values": []}
+{"action": "transfuse_blood", "case_id": "goc-0120", "label": true, "patient": "pt-0155", "purpose": "treatment", "score": 0.6484, "values": ["no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0121", "label": true, "patient": "pt-0118", "purpose": "treatment", "score": 0.7934, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0122", "label": true, "patient": "pt-0182", "purpose": "treatment", "score": 0.997, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0123", "label": true, "patient": "pt-0005", "purpose": "treatment", "score": 0.776, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0124", "label": false, "patient": "pt-0027", "purpose": "treatment", "score": 0.0152, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0125", "label": false, "patient": "pt-0145", "purpose": "treatment", "score": 0.0943, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0126", "label": false, "patient": "pt-0069", "purpose": "treatment", "score": 0.0626, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0127", "label": true, "patient": "pt-0034", "purpose": "treatment", "score": 0.6411, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0128", "label": false, "patient": "pt-0091", "purpose": "treatment", "score": 0.2429, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0129", "label": true, "patient": "pt-0127", "purpose": "treatment", "score": 0.7157, "values": ["DNR"]}
+{"action": "order_resuscitation", "case_id": "goc-0130", "label": true, "patient": "pt-0122", "purpose": "treatment", "score": 0.8017, "values": ["DNR"]}
+{"action": "admit_to_icu", "case_id": "goc-0131", "label": true, "patient": "pt-0187", "purpose": "treatment", "score": 0.763, "values": ["comfort_focused"]}
+{"action": "order_chemotherapy", "case_id": "goc-0132", "label": true, "patient": "pt-0157", "purpose": "treatment", "score": 0.7735, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "transfuse_blood", "case_id": "goc-0133", "label": true, "patient": "pt-0038", "purpose": "treatment", "score": 0.7308, "values": ["DNR", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0134", "label": true, "patient": "pt-0086", "purpose": "treatment", "score": 0.9053, "values": ["DNR", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0135", "label": true, "patient": "pt-0162", "purpose": "treatment", "score": 0.9244, "values": ["no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0136", "label": false, "patient": "pt-0065", "purpose": "treatment", "score": 0.2558, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0137", "label": false, "patient": "pt-0053", "purpose": "treatment", "score": 0.2666, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0138", "label": false, "patient": "pt-0034", "purpose": "treatment", "score": 0.0529, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0139", "label": true, "patient": "pt-0171", "purpose": "treatment", "score": 0.5741, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0140", "label": true, "patient": "pt-0007", "purpose": "treatment", "score": 0.7776, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0141", "label": false, "patient": "pt-0090", "purpose": "treatment", "score": 0.3245, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0142", "label": true, "patient": "pt-0092", "purpose": "treatment", "score": 0.6658, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0143", "label": false, "patient": "pt-0179", "purpose": "treatment", "score": 0.05, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0144", "label": false, "patient": "pt-0161", "purpose": "treatment", "score": 0.2386, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0145", "label": false, "patient": "pt-0099", "purpose": "treatment", "score": 0.1059, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0146", "label": true, "patient": "pt-0079", "purpose": "treatment", "score": 0.8507, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0147", "label": true, "patient": "pt-0092", "purpose": "treatment", "score": 0.4944, "values": ["comfort_focused"]}
+{"action": "order_chemotherapy", "case_id": "goc-0148", "label": true, "patient": "pt-0162", "purpose": "treatment", "score": 0.9087, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0149", "label": true, "patient": "pt-0080", "purpose": "treatment", "score": 0.9159, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0150", "label": false, "patient": "pt-0047", "purpose": "treatment", "score": 0.1708, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0151", "label": false, "patient": "pt-0095", "purpose": "treatment", "score": 0.0114, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0152", "label": false, "patient": "pt-0101", "purpose": "treatment", "score": 0.2175, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0153", "label": true, "patient": "pt-0126", "purpose": "treatment", "score": 0.9265, "values": ["DNR", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0154", "label": true, "patient": "pt-0113", "purpose": "treatment", "score": 0.7364, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0155", "label": false, "patient": "pt-0195", "purpose": "treatment", "score": 0.0552, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0156", "label": true, "patient": "pt-0102", "purpose": "treatment", "score": 0.943, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0157", "label": false, "patient": "pt-0117", "purpose": "treatment", "score": 0.1686, "values": ["no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0158", "label": true, "patient": "pt-0012", "purpose": "treatment", "score": 0.8688, "values": ["DNR"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0159", "label": false, "patient": "pt-0172", "purpose": "treatment", "score": 0.1306, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0160", "label": false, "patient": "pt-0065", "purpose": "treatment", "score": 0.2018, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0161", "label": false, "patient": "pt-0136", "purpose": "treatment", "score": 0.3306, "values": ["DNR", "comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0162", "label": false, "patient": "pt-0146", "purpose": "treatment", "score": 0.2061, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0163", "label": false, "patient": "pt-0079", "purpose": "treatment", "score": 0.1778, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0164", "label": true, "patient": "pt-0081", "purpose": "treatment", "score": 0.9785, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0165", "label": true, "patient": "pt-0171", "purpose": "treatment", "score": 0.819, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0166", "label": false, "patient": "pt-0111", "purpose": "treatment", "score": 0.0862, "values": ["no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0167", "label": true, "patient": "pt-0139", "purpose": "treatment", "score": 0.7394, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0168", "label": true, "patient": "pt-0171", "purpose": "treatment", "score": 0.7255, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0169", "label": false, "patient": "pt-0117", "purpose": "treatment", "score": 0.3494, "values": ["DNR", "comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0170", "label": true, "patient": "pt-0011", "purpose": "treatment", "score": 0.7972, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0171", "label": true, "patient": "pt-0108", "purpose": "treatment", "score": 0.5405, "values": ["DNR"]}
+{"action": "update_care_plan", "case_id": "goc-0172", "label": false, "patient": "pt-0068", "purpose": "treatment", "score": 0.2621, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0173", "label": false, "patient": "pt-0181", "purpose": "treatment", "score": 0.2483, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0174", "label": false, "patient": "pt-0091", "purpose": "treatment", "score": 0.1928, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0175", "label": true, "patient": "pt-0104", "purpose": "treatment", "score": 0.9496, "values": ["DNR", "comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0176", "label": true, "patient": "pt-0059", "purpose": "treatment", "score": 0.6953, "values": ["DNR", "comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0177", "label": false, "patient": "pt-0099", "purpose": "treatment", "score": 0.1119, "values": []}
+{"action": "order_resuscitation", "case_id": "goc-0178", "label": true, "patient": "pt-0099", "purpose": "treatment", "score": 0.9296, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0179", "label": false, "patient": "pt-0151", "purpose": "treatment", "score": 0.2714, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0180", "label": true, "patient": "pt-0176", "purpose": "treatment", "score": 0.8616, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0181", "label": false, "patient": "pt-0021", "purpose": "treatment", "score": 0.1083, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0182", "label": true, "patient": "pt-0184", "purpose": "treatment", "score": 0.7614, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "transfuse_blood", "case_id": "goc-0183", "label": true, "patient": "pt-0122", "purpose": "treatment", "score": 0.744, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0184", "label": true, "patient": "pt-0123", "purpose": "treatment", "score": 0.803, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0185", "label": true, "patient": "pt-0048", "purpose": "treatment", "score": 0.7341, "values": ["DNR", "comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0186", "label": false, "patient": "pt-0068", "purpose": "treatment", "score": 0.1434, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0187", "label": false, "patient": "pt-0064", "purpose": "treatment", "score": 0.2227, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0188", "label": false, "patient": "pt-0145", "purpose": "treatment", "score": 0.1152, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0189", "label": false, "patient": "pt-0086", "purpose": "treatment", "score": 0.0337, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0190", "label": true, "patient": "pt-0118", "purpose": "treatment", "score": 0.6886, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0191", "label": false, "patient": "pt-0108", "purpose": "treatment", "score": 0.1404, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0192", "label": true, "patient": "pt-0041", "purpose": "treatment", "score": 0.8412, "values": ["DNR"]}
+{"action": "order_acetaminophen", "case_id": "goc-0193", "label": false, "patient": "pt-0191", "purpose": "treatment", "score": 0.1974, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0194", "label": false, "patient": "pt-0104", "purpose": "treatment", "score": 0.1645, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0195", "label": true, "patient": "pt-0128", "purpose": "treatment", "score": 0.869, "values": ["comfort_focused"]}
+{"action": "order_acetaminophen", "case_id": "goc-0196", "label": false, "patient": "pt-0040", "purpose": "treatment", "score": 0.2635, "values": ["DNR", "comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0197", "label": false, "patient": "pt-0164", "purpose": "treatment", "score": 0.3456, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0198", "label": false, "patient": "pt-0089", "purpose": "treatment", "score": 0.1911, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0199", "label": false, "patient": "pt-0128", "purpose": "treatment", "score": 0.1047, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0200", "label": false, "patient": "pt-0197", "purpose": "treatment", "score": 0.1352, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0201", "label": false, "patient": "pt-0145", "purpose": "treatment", "score": 0.0596, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0202", "label": true, "patient": "pt-0118", "purpose": "treatment", "score": 0.5397, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0203", "label": false, "patient": "pt-0130", "purpose": "treatment", "score": 0.1188, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0204", "label": false, "patient": "pt-0053", "purpose": "treatment", "score": 0.1, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0205", "label": false, "patient": "pt-0152", "purpose": "treatment", "score": 0.149, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0206", "label": false, "patient": "pt-0134", "purpose": "treatment", "score": 0.1158, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0207", "label": false, "patient": "pt-0152", "purpose": "treatment", "score": 0.0498, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0208", "label": true, "patient": "pt-0131", "purpose": "treatment", "score": 0.749, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0209", "label": true, "patient": "pt-0127", "purpose": "treatment", "score": 1.0, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0210", "label": true, "patient": "pt-0166", "purpose": "treatment", "score": 0.8991, "values": ["DNR", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0211", "label": true, "patient": "pt-0186", "purpose": "treatment", "score": 0.8785, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0212", "label": true, "patient": "pt-0064", "purpose": "treatment", "score": 0.7976, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0213", "label": false, "patient": "pt-0108", "purpose": "treatment", "score": 0.2356, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0214", "label": false, "patient": "pt-0035", "purpose": "treatment", "score": 0.1724, "values": ["DNR", "comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0215", "label": false, "patient": "pt-0106", "purpose": "treatment", "score": 0.2487, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0216", "label": false, "patient": "pt-0121", "purpose": "treatment", "score": 0.2002, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0217", "label": true, "patient": "pt-0190", "purpose": "treatment", "score": 0.6786, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0218", "label": true, "patient": "pt-0115", "purpose": "treatment", "score": 0.7613, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0219", "label": false, "patient": "pt-0052", "purpose": "treatment", "score": 0.019, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0220", "label": false, "patient": "pt-0063", "purpose": "treatment", "score": 0.2823, "values": ["DNR"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0221", "label": false, "patient": "pt-0164", "purpose": "treatment", "score": 0.1784, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0222", "label": true, "patient": "pt-0010", "purpose": "treatment", "score": 1.0, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0223", "label": false, "patient": "pt-0110", "purpose": "treatment", "score": 0.1465, "values": ["DNR", "no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0224", "label": false, "patient": "pt-0004", "purpose": "treatment", "score": 0.0, "values": []}
+{"action": "update_care_plan", "case_id": "goc-0225", "label": false, "patient": "pt-0179", "purpose": "treatment", "score": 0.1007, "values": ["no_blood_products"]}
+{"action": "order_acetaminophen", "case_id": "goc-0226", "label": false, "patient": "pt-0069", "purpose": "treatment", "score": 0.0807, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0227", "label": false, "patient": "pt-0127", "purpose": "treatment", "score": 0.1147, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0228", "label": true, "patient": "pt-0158", "purpose": "treatment", "score": 0.9509, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0229", "label": false, "patient": "pt-0076", "purpose": "treatment", "score": 0.1228, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0230", "label": false, "patient": "pt-0008", "purpose": "treatment", "score": 0.0195, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0231", "label": false, "patient": "pt-0068", "purpose": "treatment", "score": 0.2685, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0232", "label": false, "patient": "pt-0110", "purpose": "treatment", "score": 0.1266, "values": ["comfort_focused", "no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0233", "label": true, "patient": "pt-0107", "purpose": "treatment", "score": 0.9178, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0234", "label": false, "patient": "pt-0067", "purpose": "treatment", "score": 0.2933, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0235", "label": false, "patient": "pt-0058", "purpose": "treatment", "score": 0.1005, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0236", "label": false, "patient": "pt-0074", "purpose": "treatment", "score": 0.1722, "values": []}
+{"action": "order_chemotherapy", "case_id": "goc-0237", "label": true, "patient": "pt-0196", "purpose": "treatment", "score": 0.887, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0238", "label": false, "patient": "pt-0156", "purpose": "treatment", "score": 0.2056, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0239", "label": false, "patient": "pt-0099", "purpose": "treatment", "score": 0.0714, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0240", "label": false, "patient": "pt-0055", "purpose": "treatment", "score": 0.1729, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0241", "label": false, "patient": "pt-0015", "purpose": "treatment", "score": 0.2791, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0242", "label": true, "patient": "pt-0158", "purpose": "treatment", "score": 0.7574, "values": ["DNR"]}
+{"action": "order_resuscitation", "case_id": "goc-0243", "label": true, "patient": "pt-0003", "purpose": "treatment", "score": 0.6738, "values": ["DNR"]}
+{"action": "transfuse_blood", "case_id": "goc-0244", "label": true, "patient": "pt-0103", "purpose": "treatment", "score": 0.7632, "values": ["DNR", "no_blood_products"]}
+{"action": "admit_to_icu", "case_id": "goc-0245", "label": true, "patient": "pt-0107", "purpose": "treatment", "score": 1.0, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0246", "label": false, "patient": "pt-0130", "purpose": "treatment", "score": 0.1383, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0247", "label": false, "patient": "pt-0039", "purpose": "treatment", "score": 0.2119, "values": []}
+{"action": "order_acetaminophen", "case_id": "goc-0248", "label": false, "patient": "pt-0030", "purpose": "treatment", "score": 0.2096, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0249", "label": false, "patient": "pt-0046", "purpose": "treatment", "score": 0.3192, "values": []}
+{"action": "send_appointment_reminder", "case_id": "goc-0250", "label": false, "patient": "pt-0130", "purpose": "treatment", "score": 0.1103, "values": ["DNR", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0251", "label": true, "patient": "pt-0181", "purpose": "treatment", "score": 0.9467, "values": ["comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0252", "label": false, "patient": "pt-0067", "purpose": "treatment", "score": 0.1474, "values": ["DNR", "comfort_focused"]}
+{"action": "update_care_plan", "case_id": "goc-0253", "label": false, "patient": "pt-0113", "purpose": "treatment", "score": 0.0725, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0254", "label": true, "patient": "pt-0128", "purpose": "treatment", "score": 0.7348, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0255", "label": false, "patient": "pt-0142", "purpose": "treatment", "score": 0.2565, "values": ["DNR", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0256", "label": false, "patient": "pt-0045", "purpose": "treatment", "score": 0.0616, "values": ["no_aggressive_interventions"]}
+{"action": "transfuse_blood", "case_id": "goc-0257", "label": true, "patient": "pt-0020", "purpose": "treatment", "score": 0.6852, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0258", "label": false, "patient": "pt-0091", "purpose": "treatment", "score": 0.2827, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0259", "label": false, "patient": "pt-0113", "purpose": "treatment", "score": 0.037, "values": ["no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0260", "label": true, "patient": "pt-0050", "purpose": "treatment", "score": 0.6503, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0261", "label": true, "patient": "pt-0022", "purpose": "treatment", "score": 0.5574, "values": ["no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0262", "label": false, "patient": "pt-0018", "purpose": "treatment", "score": 0.166, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0263", "label": true, "patient": "pt-0023", "purpose": "treatment", "score": 0.655, "values": ["DNR", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0264", "label": true, "patient": "pt-0070", "purpose": "treatment", "score": 0.9555, "values": ["no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0265", "label": true, "patient": "pt-0008", "purpose": "treatment", "score": 0.9683, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0266", "label": false, "patient": "pt-0173", "purpose": "treatment", "score": 0.3018, "values": ["DNR"]}
+{"action": "update_care_plan", "case_id": "goc-0267", "label": false, "patient": "pt-0053", "purpose": "treatment", "score": 0.1206, "values": ["no_aggressive_interventions", "no_blood_products"]}
+{"action": "transfuse_blood", "case_id": "goc-0268", "label": true, "patient": "pt-0171", "purpose": "treatment", "score": 0.8437, "values": ["no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0269", "label": true, "patient": "pt-0114", "purpose": "treatment", "score": 0.678, "values": ["DNR"]}
+{"action": "order_acetaminophen", "case_id": "goc-0270", "label": false, "patient": "pt-0000", "purpose": "treatment", "score": 0.1373, "values": ["no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0271", "label": false, "patient": "pt-0155", "purpose": "treatment", "score": 0.1525, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0272", "label": false, "patient": "pt-0134", "purpose": "treatment", "score": 0.1865, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0273", "label": true, "patient": "pt-0058", "purpose": "treatment", "score": 0.6552, "values": ["comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0274", "label": false, "patient": "pt-0049", "purpose": "treatment", "score": 0.1575, "values": ["no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0275", "label": false, "patient": "pt-0074", "purpose": "treatment", "score": 0.1899, "values": ["DNR", "no_blood_products"]}
+{"action": "update_care_plan", "case_id": "goc-0276", "label": false, "patient": "pt-0171", "purpose": "treatment", "score": 0.1884, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0277", "label": true, "patient": "pt-0091", "purpose": "treatment", "score": 0.7394, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "order_resuscitation", "case_id": "goc-0278", "label": true, "patient": "pt-0058", "purpose": "treatment", "score": 0.8218, "values": ["DNR"]}
+{"action": "admit_to_icu", "case_id": "goc-0279", "label": true, "patient": "pt-0083", "purpose": "treatment", "score": 0.8513, "values": ["no_aggressive_interventions"]}
+{"action": "admit_to_icu", "case_id": "goc-0280", "label": true, "patient": "pt-0027", "purpose": "treatment", "score": 0.7188, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0281", "label": false, "patient": "pt-0117", "purpose": "treatment", "score": 0.316, "values": ["comfort_focused"]}
+{"action": "admit_to_icu", "case_id": "goc-0282", "label": true, "patient": "pt-0045", "purpose": "treatment", "score": 0.8818, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0283", "label": false, "patient": "pt-0119", "purpose": "treatment", "score": 0.3294, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "order_chemotherapy", "case_id": "goc-0284", "label": true, "patient": "pt-0141", "purpose": "treatment", "score": 0.4626, "values": ["comfort_focused"]}
+{"action": "transfuse_blood", "case_id": "goc-0285", "label": true, "patient": "pt-0150", "purpose": "treatment", "score": 0.7549, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0286", "label": false, "patient": "pt-0011", "purpose": "treatment", "score": 0.0663, "values": ["DNR", "comfort_focused"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0287", "label": false, "patient": "pt-0113", "purpose": "treatment", "score": 0.1599, "values": []}
+{"action": "admit_to_icu", "case_id": "goc-0288", "label": true, "patient": "pt-0033", "purpose": "treatment", "score": 0.8479, "values": ["comfort_focused"]}
+{"action": "order_resuscitation", "case_id": "goc-0289", "label": true, "patient": "pt-0035", "purpose": "treatment", "score": 0.8837, "values": ["DNR"]}
+{"action": "update_care_plan", "case_id": "goc-0290", "label": false, "patient": "pt-0184", "purpose": "treatment", "score": 0.1599, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "transfuse_blood", "case_id": "goc-0291", "label": true, "patient": "pt-0157", "purpose": "treatment", "score": 0.71, "values": ["no_blood_products"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0292", "label": false, "patient": "pt-0111", "purpose": "treatment", "score": 0.063, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "update_care_plan", "case_id": "goc-0293", "label": false, "patient": "pt-0177", "purpose": "treatment", "score": 0.1567, "values": ["DNR"]}
+{"action": "update_care_plan", "case_id": "goc-0294", "label": false, "patient": "pt-0006", "purpose": "treatment", "score": 0.2427, "values": ["DNR", "no_aggressive_interventions"]}
+{"action": "send_appointment_reminder", "case_id": "goc-0295", "label": false, "patient": "pt-0139", "purpose": "treatment", "score": 0.0815, "values": ["comfort_focused", "no_aggressive_interventions"]}
+{"action": "transfuse_blood", "case_id": "goc-0296", "label": true, "patient": "pt-0181", "purpose": "treatment", "score": 0.9093, "values": ["no_blood_products"]}
+{"action": "order_resuscitation", "case_id": "goc-0297", "label": true, "patient": "pt-0176", "purpose": "treatment", "score": 0.6802, "values": ["DNR", "no_blood_products"]}
+{"action": "order_chemotherapy", "case_id": "goc-0298", "label": true, "patient": "pt-0173", "purpose": "treatment", "score": 0.9237, "values": ["no_aggressive_interventions"]}
+{"action": "order_acetaminophen", "case_id": "goc-0299", "label": false, "patient": "pt-0114", "purpose": "treatment", "score": 0.0567, "values": ["comfort_focused"]}
