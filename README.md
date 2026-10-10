@@ -20,6 +20,14 @@
 
 An agent action can be authorized and clinically correct and still be unlawful: taken outside the patient's recorded consent, or delivered as a patient-facing message that hides its AI authorship. The consent layer runs in the qfire gateway after identity (quorum) and policy (quwarden): it resolves each action against a FHIR-Consent-shaped directive (default-deny, most-specific-match; withdrawn/expired/missing consent escalates to human review, an explicit deny is a hard block), stamps a canonical AI-involvement disclosure onto patient-facing output, requires an ed25519-signed operator attestation for credentialed actions, flags goals-of-care conflicts, and anchors participatory-governance inputs to the quledger audit chain. On a live llama3.1:8b gateway, spontaneous AI disclosure on 120 patient-facing messages is 0% and the un-gated gateway proceeds on 100% of the 22 withdrawn/expired/out-of-scope cases; the layer lifts disclosure to 100% (McNemar p < 1e-4) and cuts out-of-scope action to 0%, at 2.409 us per decision.
 
+<div align="center">
+
+[![Quconsent: Consent and Disclosure Enforcement for Clinical AI Agents (talk)](assets/quconsent-video.png)](https://youtu.be/QxtS1_6gstU)
+
+**▶ Watch: [Quconsent: Consent and Disclosure Enforcement for Clinical AI Agents (talk)](https://youtu.be/QxtS1_6gstU)**
+
+</div>
+
 `quconsent` is **a module of the QUOKKAGUARD program**: one Rust security gateway (`qfire`) that sits in front of any OpenAI-compatible model endpoint and decides **ALLOW ▸ forward · BLOCK ▸ refuse · ESCALATE ▸ human review** for every request and response. Each module adds exactly one enforcement layer to that gateway plus one adversarial dataset and one paper. This repository is a self-contained snapshot of the gateway with **this layer** (`src/consent/`, on the *response/admission* path, HAARF control C4), its dataset (**ConsentBench**), the experiment harness, and the paper.
 
 > **Needs a local model for some experiments.** Live runs go through [Ollama](https://ollama.com) on the OpenAI-compatible endpoint; no paid API keys are used anywhere in this repo.
